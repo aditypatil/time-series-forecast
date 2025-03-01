@@ -1,6 +1,5 @@
 # time-series-forecast
 
-## Basic methods
 ### 1. Monte Carlo Simulations
 
 Step 1: Model the uncertainity as a normal distribution and select return at each step to forecast.<br/>
